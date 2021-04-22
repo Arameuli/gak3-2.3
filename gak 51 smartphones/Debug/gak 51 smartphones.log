@@ -1,0 +1,6 @@
+﻿  gak 51 smartphones.cpp
+C:\Users\nikas\source\repos\gak 51 smartphones\gak 51 smartphones.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nikas\source\repos\gak 51 smartphones\gak 51 smartphones.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+  Smartphone.cpp
+  Generating Code...
+  gak 51 smartphones.vcxproj -> C:\Users\nikas\source\repos\gak 51 smartphones\Debug\gak 51 smartphones.exe
